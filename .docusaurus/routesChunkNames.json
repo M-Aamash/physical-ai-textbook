@@ -1,162 +1,162 @@
 {
-  "/-9ee": {
+  "/physical-ai-textbook/-78f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-6ca": {
+  "/physical-ai-textbook/-b78": {
     "__comp": "a7bd4aaa",
-    "__props": "22dd74f7"
+    "__props": "5a642155"
   },
-  "/-846": {
+  "/physical-ai-textbook/-e57": {
     "__comp": "a94703ab"
   },
-  "/appendices/appendix-a-installation-316": {
+  "/physical-ai-textbook/appendices/appendix-a-installation-696": {
     "__comp": "17896441",
     "content": "49820f27"
   },
-  "/appendices/appendix-b-setup-55e": {
+  "/physical-ai-textbook/appendices/appendix-b-setup-e2d": {
     "__comp": "17896441",
     "content": "337191e6"
   },
-  "/appendices/appendix-c-troubleshooting-585": {
+  "/physical-ai-textbook/appendices/appendix-c-troubleshooting-218": {
     "__comp": "17896441",
     "content": "742b9aa5"
   },
-  "/appendices/appendix-e-code-templates-a3b": {
+  "/physical-ai-textbook/appendices/appendix-e-code-templates-6db": {
     "__comp": "17896441",
     "content": "a31f5a0d"
   },
-  "/appendices/appendix-g-resources-8cc": {
+  "/physical-ai-textbook/appendices/appendix-g-resources-24b": {
     "__comp": "17896441",
     "content": "e40f6155"
   },
-  "/ch01-introduction/-e0b": {
+  "/physical-ai-textbook/ch01-introduction/-86e": {
     "__comp": "17896441",
     "content": "384e11db"
   },
-  "/ch01-introduction/exercises/chapter1-quiz-6db": {
+  "/physical-ai-textbook/ch01-introduction/exercises/chapter1-quiz-49c": {
     "__comp": "17896441",
     "content": "0d0f8973"
   },
-  "/ch02-fundamentals/-586": {
+  "/physical-ai-textbook/ch02-fundamentals/-223": {
     "__comp": "17896441",
     "content": "41952fd3"
   },
-  "/ch02-fundamentals/exercises/chapter2-quiz-ccc": {
+  "/physical-ai-textbook/ch02-fundamentals/exercises/chapter2-quiz-099": {
     "__comp": "17896441",
     "content": "037de41d"
   },
-  "/ch03-ros2-architecture/-739": {
+  "/physical-ai-textbook/ch03-ros2-architecture/-9ad": {
     "__comp": "17896441",
     "content": "fbdf34b1"
   },
-  "/ch03-ros2-architecture/exercises/chapter3-quiz-5a9": {
+  "/physical-ai-textbook/ch03-ros2-architecture/exercises/chapter3-quiz-418": {
     "__comp": "17896441",
     "content": "904cfacc"
   },
-  "/ch04-gazebo-simulation/-77b": {
+  "/physical-ai-textbook/ch04-gazebo-simulation/-ae1": {
     "__comp": "17896441",
     "content": "46aa2a54"
   },
-  "/ch04-gazebo-simulation/exercises/chapter4-quiz-e68": {
+  "/physical-ai-textbook/ch04-gazebo-simulation/exercises/chapter4-quiz-1fe": {
     "__comp": "17896441",
     "content": "0b4415f7"
   },
-  "/ch05-isaac-platform/-11e": {
+  "/physical-ai-textbook/ch05-isaac-platform/-292": {
     "__comp": "17896441",
     "content": "fb8665e3"
   },
-  "/ch05-isaac-platform/exercises/chapter5-quiz-c8d": {
+  "/physical-ai-textbook/ch05-isaac-platform/exercises/chapter5-quiz-817": {
     "__comp": "17896441",
     "content": "e26fb981"
   },
-  "/ch06-urdf-xacro/-16c": {
+  "/physical-ai-textbook/ch06-urdf-xacro/-7a1": {
     "__comp": "17896441",
     "content": "504dd32f"
   },
-  "/ch06-urdf-xacro/exercises/chapter6-quiz-a75": {
+  "/physical-ai-textbook/ch06-urdf-xacro/exercises/chapter6-quiz-cca": {
     "__comp": "17896441",
     "content": "1bc432cf"
   },
-  "/ch07-perception-systems/-bf1": {
+  "/physical-ai-textbook/ch07-perception-systems/-a31": {
     "__comp": "17896441",
     "content": "756a4bd2"
   },
-  "/ch07-perception-systems/exercises/chapter7-quiz-866": {
+  "/physical-ai-textbook/ch07-perception-systems/exercises/chapter7-quiz-b0c": {
     "__comp": "17896441",
     "content": "d8c2ee55"
   },
-  "/ch08-navigation/-125": {
+  "/physical-ai-textbook/ch08-navigation/-b79": {
     "__comp": "17896441",
     "content": "582e205f"
   },
-  "/ch08-navigation/exercises/chapter8-quiz-050": {
+  "/physical-ai-textbook/ch08-navigation/exercises/chapter8-quiz-2b0": {
     "__comp": "17896441",
     "content": "c0417b70"
   },
-  "/ch09-manipulation/-861": {
+  "/physical-ai-textbook/ch09-manipulation/-ea7": {
     "__comp": "17896441",
     "content": "ddc4bfe8"
   },
-  "/ch09-manipulation/exercises/chapter9-quiz-054": {
+  "/physical-ai-textbook/ch09-manipulation/exercises/chapter9-quiz-43f": {
     "__comp": "17896441",
     "content": "4bb5a24b"
   },
-  "/ch10-vla-models/-66a": {
+  "/physical-ai-textbook/ch10-vla-models/-3f1": {
     "__comp": "17896441",
     "content": "2bb7c006"
   },
-  "/ch11-humanoid-design/-108": {
+  "/physical-ai-textbook/ch11-humanoid-design/-45f": {
     "__comp": "17896441",
     "content": "131b1b73"
   },
-  "/ch12-learning-adaptation/-bfe": {
+  "/physical-ai-textbook/ch12-learning-adaptation/-329": {
     "__comp": "17896441",
     "content": "e72d112c"
   },
-  "/ch13-multi-robot-systems/-f39": {
+  "/physical-ai-textbook/ch13-multi-robot-systems/-225": {
     "__comp": "17896441",
     "content": "62db5706"
   },
-  "/ch14-safety-ethics/-9a8": {
+  "/physical-ai-textbook/ch14-safety-ethics/-525": {
     "__comp": "17896441",
     "content": "7af49bc5"
   },
-  "/ch15-capstone-project/-541": {
+  "/physical-ai-textbook/ch15-capstone-project/-a6f": {
     "__comp": "17896441",
     "content": "d8f2cb91"
   },
-  "/ch15-capstone-project/exercises/chapter15-quiz-e1e": {
+  "/physical-ai-textbook/ch15-capstone-project/exercises/chapter15-quiz-bed": {
     "__comp": "17896441",
     "content": "b89d1575"
   },
-  "/getting-started/intro-100": {
+  "/physical-ai-textbook/getting-started/intro-39c": {
     "__comp": "17896441",
     "content": "6dfec84f"
   },
-  "/reference/api-reference-573": {
+  "/physical-ai-textbook/reference/api-reference-07d": {
     "__comp": "17896441",
     "content": "a1872ea7"
   },
-  "/reference/dependencies-398": {
+  "/physical-ai-textbook/reference/dependencies-157": {
     "__comp": "17896441",
     "content": "5109eae0"
   },
-  "/reference/glossary-d91": {
+  "/physical-ai-textbook/reference/glossary-bc1": {
     "__comp": "17896441",
     "content": "846656e5"
   },
-  "/reference/hardware-specs-ca2": {
+  "/physical-ai-textbook/reference/hardware-specs-042": {
     "__comp": "17896441",
     "content": "f353154c"
   },
-  "/reference/quiz-template-3f9": {
+  "/physical-ai-textbook/reference/quiz-template-2b5": {
     "__comp": "17896441",
     "content": "21a1cc61"
   },
-  "/-c48": {
+  "/physical-ai-textbook/-e9b": {
     "__comp": "17896441",
     "content": "c377a04b"
   }

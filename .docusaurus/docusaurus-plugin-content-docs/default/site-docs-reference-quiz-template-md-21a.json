@@ -5,7 +5,7 @@
   "source": "@site/docs/reference/quiz-template.md",
   "sourceDirName": "reference",
   "slug": "/reference/quiz-template",
-  "permalink": "/reference/quiz-template",
+  "permalink": "/physical-ai-textbook/reference/quiz-template",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/reference/quiz-template.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Cross-Chapter Dependencies",
-    "permalink": "/reference/dependencies"
+    "permalink": "/physical-ai-textbook/reference/dependencies"
   },
   "next": {
     "title": "Appendix A: Installation Guide",
-    "permalink": "/appendices/appendix-a-installation"
+    "permalink": "/physical-ai-textbook/appendices/appendix-a-installation"
   }
 }

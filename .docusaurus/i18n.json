@@ -13,8 +13,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://your-vercel-domain.vercel.app",
-      "baseUrl": "/"
+      "url": "https://m-aamash.github.io",
+      "baseUrl": "/physical-ai-textbook/"
     }
   }
 }

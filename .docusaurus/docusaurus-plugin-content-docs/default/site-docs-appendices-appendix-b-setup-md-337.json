@@ -5,7 +5,7 @@
   "source": "@site/docs/appendices/appendix-b-setup.md",
   "sourceDirName": "appendices",
   "slug": "/appendices/appendix-b-setup",
-  "permalink": "/appendices/appendix-b-setup",
+  "permalink": "/physical-ai-textbook/appendices/appendix-b-setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/appendices/appendix-b-setup.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Appendix A: Installation Guide",
-    "permalink": "/appendices/appendix-a-installation"
+    "permalink": "/physical-ai-textbook/appendices/appendix-a-installation"
   },
   "next": {
     "title": "Appendix C: Troubleshooting Guide",
-    "permalink": "/appendices/appendix-c-troubleshooting"
+    "permalink": "/physical-ai-textbook/appendices/appendix-c-troubleshooting"
   }
 }

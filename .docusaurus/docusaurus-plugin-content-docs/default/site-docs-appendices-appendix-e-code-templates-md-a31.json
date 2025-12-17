@@ -5,7 +5,7 @@
   "source": "@site/docs/appendices/appendix-e-code-templates.md",
   "sourceDirName": "appendices",
   "slug": "/appendices/appendix-e-code-templates",
-  "permalink": "/appendices/appendix-e-code-templates",
+  "permalink": "/physical-ai-textbook/appendices/appendix-e-code-templates",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/appendices/appendix-e-code-templates.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Appendix C: Troubleshooting Guide",
-    "permalink": "/appendices/appendix-c-troubleshooting"
+    "permalink": "/physical-ai-textbook/appendices/appendix-c-troubleshooting"
   },
   "next": {
     "title": "Appendix G: Instructor Resources",
-    "permalink": "/appendices/appendix-g-resources"
+    "permalink": "/physical-ai-textbook/appendices/appendix-g-resources"
   }
 }

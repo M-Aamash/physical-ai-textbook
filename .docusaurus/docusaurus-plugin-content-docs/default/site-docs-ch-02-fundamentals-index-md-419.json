@@ -5,7 +5,7 @@
   "source": "@site/docs/ch02-fundamentals/index.md",
   "sourceDirName": "ch02-fundamentals",
   "slug": "/ch02-fundamentals/",
-  "permalink": "/ch02-fundamentals/",
+  "permalink": "/physical-ai-textbook/ch02-fundamentals/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/ch02-fundamentals/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Chapter 1: Introduction to Physical AI and Humanoid Robotics",
-    "permalink": "/ch01-introduction/"
+    "permalink": "/physical-ai-textbook/ch01-introduction/"
   },
   "next": {
     "title": "Chapter 3: ROS 2 Architecture and Communication",
-    "permalink": "/ch03-ros2-architecture/"
+    "permalink": "/physical-ai-textbook/ch03-ros2-architecture/"
   }
 }

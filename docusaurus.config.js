@@ -7,11 +7,13 @@ const config = {
   tagline: 'A Comprehensive Guide to AI-Integrated Robotics',
   favicon: 'img/favicon.ico',
 
-  
-  url: 'https://your-vercel-domain.vercel.app', 
-  baseUrl: '/',                                
-  organizationName: 'PhysicalAI',              
-  projectName: 'textbook',                     
+  // ===============================
+  // ✅ GitHub Pages Configuration
+  // ===============================
+  url: 'https://m-aamash.github.io',
+  baseUrl: '/physical-ai-textbook/',
+  organizationName: 'M-Aamash',
+  projectName: 'physical-ai-textbook',
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -24,11 +26,12 @@ const config = {
   presets: [
     [
       'classic',
-      ({
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/M-Aamash/physical-ai-textbook/tree/main/',
-          routeBasePath: '/',    
+          editUrl:
+            'https://github.com/M-Aamash/physical-ai-textbook/tree/main/',
+          routeBasePath: '/',   // 👈 homepage = docs
           path: 'docs',
         },
 
@@ -37,11 +40,11 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
-  themeConfig: ({
+  themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
 
     navbar: {
@@ -58,7 +61,7 @@ const config = {
           label: 'Textbook',
         },
         {
-          href: 'https://github.com/M-Aamash',
+          href: 'https://github.com/M-Aamash/physical-ai-textbook',
           label: 'GitHub',
           position: 'right',
         },
@@ -73,11 +76,7 @@ const config = {
           items: [
             {
               label: 'Introduction',
-              to: '/docs/ch01-introduction',
-            },
-            {
-              label: 'Fundamentals',
-              to: '/docs/ch02-fundamentals',
+              to: '/',
             },
           ],
         },
@@ -94,7 +93,8 @@ const config = {
             },
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/aamash-khalid-13702a384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+              href:
+                'https://www.linkedin.com/in/aamash-khalid-13702a384',
             },
           ],
         },
@@ -103,12 +103,12 @@ const config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/M-Aamash',
+              href: 'https://github.com/M-Aamash/physical-ai-textbook',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook.`,
     },
 
     prism: {
@@ -116,7 +116,7 @@ const config = {
       darkTheme: darkCodeTheme,
       additionalLanguages: ['python', 'bash', 'json', 'yaml'],
     },
-  }),
+  },
 };
 
 module.exports = config;

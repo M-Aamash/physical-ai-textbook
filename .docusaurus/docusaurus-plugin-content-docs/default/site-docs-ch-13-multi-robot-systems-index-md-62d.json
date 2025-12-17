@@ -5,7 +5,7 @@
   "source": "@site/docs/ch13-multi-robot-systems/index.md",
   "sourceDirName": "ch13-multi-robot-systems",
   "slug": "/ch13-multi-robot-systems/",
-  "permalink": "/ch13-multi-robot-systems/",
+  "permalink": "/physical-ai-textbook/ch13-multi-robot-systems/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/ch13-multi-robot-systems/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Chapter 12: Learning and Adaptation in Robotics",
-    "permalink": "/ch12-learning-adaptation/"
+    "permalink": "/physical-ai-textbook/ch12-learning-adaptation/"
   },
   "next": {
     "title": "Chapter 14: Safety and Ethics in Robotics",
-    "permalink": "/ch14-safety-ethics/"
+    "permalink": "/physical-ai-textbook/ch14-safety-ethics/"
   }
 }

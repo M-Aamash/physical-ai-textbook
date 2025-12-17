@@ -5,7 +5,7 @@
   "source": "@site/docs/reference/dependencies.md",
   "sourceDirName": "reference",
   "slug": "/reference/dependencies",
-  "permalink": "/reference/dependencies",
+  "permalink": "/physical-ai-textbook/reference/dependencies",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/reference/dependencies.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "API Reference",
-    "permalink": "/reference/api-reference"
+    "permalink": "/physical-ai-textbook/reference/api-reference"
   },
   "next": {
     "title": "Quiz Template",
-    "permalink": "/reference/quiz-template"
+    "permalink": "/physical-ai-textbook/reference/quiz-template"
   }
 }

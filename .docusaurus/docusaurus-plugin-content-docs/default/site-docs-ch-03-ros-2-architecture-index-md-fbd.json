@@ -5,7 +5,7 @@
   "source": "@site/docs/ch03-ros2-architecture/index.md",
   "sourceDirName": "ch03-ros2-architecture",
   "slug": "/ch03-ros2-architecture/",
-  "permalink": "/ch03-ros2-architecture/",
+  "permalink": "/physical-ai-textbook/ch03-ros2-architecture/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/ch03-ros2-architecture/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Chapter 2: Fundamentals of Robotics and AI Integration",
-    "permalink": "/ch02-fundamentals/"
+    "permalink": "/physical-ai-textbook/ch02-fundamentals/"
   },
   "next": {
     "title": "Chapter 4: Gazebo Simulation Environment",
-    "permalink": "/ch04-gazebo-simulation/"
+    "permalink": "/physical-ai-textbook/ch04-gazebo-simulation/"
   }
 }

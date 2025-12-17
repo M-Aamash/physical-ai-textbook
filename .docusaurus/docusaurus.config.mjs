@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics Textbook",
   "tagline": "A Comprehensive Guide to AI-Integrated Robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-vercel-domain.vercel.app",
-  "baseUrl": "/",
-  "organizationName": "PhysicalAI",
-  "projectName": "textbook",
+  "url": "https://m-aamash.github.io",
+  "baseUrl": "/physical-ai-textbook/",
+  "organizationName": "M-Aamash",
+  "projectName": "physical-ai-textbook",
   "onBrokenLinks": "ignore",
   "i18n": {
     "defaultLocale": "en",
@@ -53,7 +53,7 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/M-Aamash",
+          "href": "https://github.com/M-Aamash/physical-ai-textbook",
           "label": "GitHub",
           "position": "right"
         }
@@ -68,11 +68,7 @@ export default {
           "items": [
             {
               "label": "Introduction",
-              "to": "/docs/ch01-introduction"
-            },
-            {
-              "label": "Fundamentals",
-              "to": "/docs/ch02-fundamentals"
+              "to": "/"
             }
           ]
         },
@@ -89,7 +85,7 @@ export default {
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/aamash-khalid-13702a384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              "href": "https://www.linkedin.com/in/aamash-khalid-13702a384"
             }
           ]
         },
@@ -98,12 +94,12 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/M-Aamash"
+              "href": "https://github.com/M-Aamash/physical-ai-textbook"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Physical AI & Humanoid Robotics Textbook. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Physical AI & Humanoid Robotics Textbook."
     },
     "prism": {
       "theme": {

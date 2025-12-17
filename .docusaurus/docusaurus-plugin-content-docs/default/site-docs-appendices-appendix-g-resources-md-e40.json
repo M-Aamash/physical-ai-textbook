@@ -5,7 +5,7 @@
   "source": "@site/docs/appendices/appendix-g-resources.md",
   "sourceDirName": "appendices",
   "slug": "/appendices/appendix-g-resources",
-  "permalink": "/appendices/appendix-g-resources",
+  "permalink": "/physical-ai-textbook/appendices/appendix-g-resources",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/appendices/appendix-g-resources.md",
@@ -15,6 +15,6 @@
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Appendix E: Code Templates",
-    "permalink": "/appendices/appendix-e-code-templates"
+    "permalink": "/physical-ai-textbook/appendices/appendix-e-code-templates"
   }
 }

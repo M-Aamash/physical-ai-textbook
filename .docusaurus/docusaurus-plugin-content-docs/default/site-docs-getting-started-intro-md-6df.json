@@ -5,7 +5,7 @@
   "source": "@site/docs/getting-started/intro.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/intro",
-  "permalink": "/getting-started/intro",
+  "permalink": "/physical-ai-textbook/getting-started/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/getting-started/intro.md",
@@ -15,6 +15,6 @@
   "sidebar": "textbookSidebar",
   "next": {
     "title": "Chapter 1: Introduction to Physical AI and Humanoid Robotics",
-    "permalink": "/ch01-introduction/"
+    "permalink": "/physical-ai-textbook/ch01-introduction/"
   }
 }
