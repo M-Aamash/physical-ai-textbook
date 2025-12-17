@@ -5,20 +5,20 @@
   "source": "@site/docs/ch10-vla-models/index.md",
   "sourceDirName": "ch10-vla-models",
   "slug": "/ch10-vla-models/",
-  "permalink": "/physical-ai-textbook/ch10-vla-models/",
+  "permalink": "/ch10-vla-models/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/ch10-vla-models/index.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/ch10-vla-models/index.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Chapter 9: Manipulation and Control Systems",
-    "permalink": "/physical-ai-textbook/ch09-manipulation/"
+    "permalink": "/ch09-manipulation/"
   },
   "next": {
     "title": "Chapter 11: Humanoid Robot Design and Control",
-    "permalink": "/physical-ai-textbook/ch11-humanoid-design/"
+    "permalink": "/ch11-humanoid-design/"
   }
 }

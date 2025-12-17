@@ -5,20 +5,20 @@
   "source": "@site/docs/ch01-introduction/index.md",
   "sourceDirName": "ch01-introduction",
   "slug": "/ch01-introduction/",
-  "permalink": "/physical-ai-textbook/ch01-introduction/",
+  "permalink": "/ch01-introduction/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/ch01-introduction/index.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/ch01-introduction/index.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/physical-ai-textbook/getting-started/intro"
+    "permalink": "/getting-started/intro"
   },
   "next": {
     "title": "Chapter 2: Fundamentals of Robotics and AI Integration",
-    "permalink": "/physical-ai-textbook/ch02-fundamentals/"
+    "permalink": "/ch02-fundamentals/"
   }
 }

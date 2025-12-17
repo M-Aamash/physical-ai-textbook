@@ -27,7 +27,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/',
+          editUrl: 'https://github.com/M-Aamash/physical-ai-textbook/tree/main/',
           routeBasePath: '/',    
           path: 'docs',
         },
@@ -58,7 +58,7 @@ const config = {
           label: 'Textbook',
         },
         {
-          href: 'https://github.com/IlsaFatima1',
+          href: 'https://github.com/M-Aamash',
           label: 'GitHub',
           position: 'right',
         },
@@ -94,7 +94,7 @@ const config = {
             },
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/ilsa-fatima-107381380',
+              href: 'https://www.linkedin.com/in/aamash-khalid-13702a384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
             },
           ],
         },
@@ -103,7 +103,7 @@ const config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/IlsaFatima1',
+              href: 'https://github.com/M-Aamash',
             },
           ],
         },

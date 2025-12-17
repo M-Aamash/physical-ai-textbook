@@ -1,6 +1,6 @@
 export default [
-  require("D:\\gemini_cli\\hackathon1\\Physical-AI-and-Humanoid-Robotics-textbook\\node_modules\\infima\\dist\\css\\default\\default.css"),
-  require("D:\\gemini_cli\\hackathon1\\Physical-AI-and-Humanoid-Robotics-textbook\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages"),
-  require("D:\\gemini_cli\\hackathon1\\Physical-AI-and-Humanoid-Robotics-textbook\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress"),
-  require("D:\\gemini_cli\\hackathon1\\Physical-AI-and-Humanoid-Robotics-textbook\\src\\css\\custom.css"),
+  require("E:\\Aamash code\\gamini code\\hacckathon 1\\new\\physical-ai-textbook\\node_modules\\infima\\dist\\css\\default\\default.css"),
+  require("E:\\Aamash code\\gamini code\\hacckathon 1\\new\\physical-ai-textbook\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages"),
+  require("E:\\Aamash code\\gamini code\\hacckathon 1\\new\\physical-ai-textbook\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress"),
+  require("E:\\Aamash code\\gamini code\\hacckathon 1\\new\\physical-ai-textbook\\src\\css\\custom.css"),
 ];

@@ -5,20 +5,20 @@
   "source": "@site/docs/reference/dependencies.md",
   "sourceDirName": "reference",
   "slug": "/reference/dependencies",
-  "permalink": "/physical-ai-textbook/reference/dependencies",
+  "permalink": "/reference/dependencies",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/reference/dependencies.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/reference/dependencies.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "API Reference",
-    "permalink": "/physical-ai-textbook/reference/api-reference"
+    "permalink": "/reference/api-reference"
   },
   "next": {
     "title": "Quiz Template",
-    "permalink": "/physical-ai-textbook/reference/quiz-template"
+    "permalink": "/reference/quiz-template"
   }
 }

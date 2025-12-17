@@ -5,10 +5,10 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/physical-ai-textbook/",
+  "permalink": "/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/index.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/index.md",
   "tags": [],
   "version": "current",
   "frontMatter": {

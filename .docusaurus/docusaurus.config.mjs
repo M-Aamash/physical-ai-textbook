@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics Textbook",
   "tagline": "A Comprehensive Guide to AI-Integrated Robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://IlsaFatima.github.io",
-  "baseUrl": "/physical-ai-textbook/",
-  "organizationName": "IlsaFatima1",
-  "projectName": "Physical-AI-and-Humanoid-Robotics-textbook",
+  "url": "https://your-vercel-domain.vercel.app",
+  "baseUrl": "/",
+  "organizationName": "PhysicalAI",
+  "projectName": "textbook",
   "onBrokenLinks": "ignore",
   "i18n": {
     "defaultLocale": "en",
@@ -25,14 +25,14 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\gemini_cli\\hackathon1\\Physical-AI-and-Humanoid-Robotics-textbook\\sidebars.js",
-          "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/",
+          "sidebarPath": "E:\\Aamash code\\gamini code\\hacckathon 1\\new\\physical-ai-textbook\\sidebars.js",
+          "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/",
           "routeBasePath": "/",
           "path": "docs"
         },
         "blog": false,
         "theme": {
-          "customCss": "D:\\gemini_cli\\hackathon1\\Physical-AI-and-Humanoid-Robotics-textbook\\src\\css\\custom.css"
+          "customCss": "E:\\Aamash code\\gamini code\\hacckathon 1\\new\\physical-ai-textbook\\src\\css\\custom.css"
         }
       }
     ]
@@ -53,7 +53,7 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/IlsaFatima1",
+          "href": "https://github.com/M-Aamash",
           "label": "GitHub",
           "position": "right"
         }
@@ -89,7 +89,7 @@ export default {
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/ilsa-fatima-107381380?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+              "href": "https://www.linkedin.com/in/aamash-khalid-13702a384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             }
           ]
         },
@@ -98,7 +98,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/IlsaFatima1"
+              "href": "https://github.com/M-Aamash"
             }
           ]
         }

@@ -5,20 +5,20 @@
   "source": "@site/docs/appendices/appendix-b-setup.md",
   "sourceDirName": "appendices",
   "slug": "/appendices/appendix-b-setup",
-  "permalink": "/physical-ai-textbook/appendices/appendix-b-setup",
+  "permalink": "/appendices/appendix-b-setup",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/appendices/appendix-b-setup.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/appendices/appendix-b-setup.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Appendix A: Installation Guide",
-    "permalink": "/physical-ai-textbook/appendices/appendix-a-installation"
+    "permalink": "/appendices/appendix-a-installation"
   },
   "next": {
     "title": "Appendix C: Troubleshooting Guide",
-    "permalink": "/physical-ai-textbook/appendices/appendix-c-troubleshooting"
+    "permalink": "/appendices/appendix-c-troubleshooting"
   }
 }

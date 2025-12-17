@@ -5,20 +5,20 @@
   "source": "@site/docs/ch14-safety-ethics/index.md",
   "sourceDirName": "ch14-safety-ethics",
   "slug": "/ch14-safety-ethics/",
-  "permalink": "/physical-ai-textbook/ch14-safety-ethics/",
+  "permalink": "/ch14-safety-ethics/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/ch14-safety-ethics/index.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/ch14-safety-ethics/index.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Chapter 13: Multi-Robot Systems and Coordination",
-    "permalink": "/physical-ai-textbook/ch13-multi-robot-systems/"
+    "permalink": "/ch13-multi-robot-systems/"
   },
   "next": {
     "title": "Chapter 15: Capstone Project - Autonomous Humanoid with VLA",
-    "permalink": "/physical-ai-textbook/ch15-capstone-project/"
+    "permalink": "/ch15-capstone-project/"
   }
 }

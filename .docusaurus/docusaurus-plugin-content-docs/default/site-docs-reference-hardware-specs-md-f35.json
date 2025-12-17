@@ -5,20 +5,20 @@
   "source": "@site/docs/reference/hardware-specs.md",
   "sourceDirName": "reference",
   "slug": "/reference/hardware-specs",
-  "permalink": "/physical-ai-textbook/reference/hardware-specs",
+  "permalink": "/reference/hardware-specs",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/reference/hardware-specs.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/reference/hardware-specs.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Glossary",
-    "permalink": "/physical-ai-textbook/reference/glossary"
+    "permalink": "/reference/glossary"
   },
   "next": {
     "title": "API Reference",
-    "permalink": "/physical-ai-textbook/reference/api-reference"
+    "permalink": "/reference/api-reference"
   }
 }

@@ -5,20 +5,20 @@
   "source": "@site/docs/reference/glossary.md",
   "sourceDirName": "reference",
   "slug": "/reference/glossary",
-  "permalink": "/physical-ai-textbook/reference/glossary",
+  "permalink": "/reference/glossary",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/IlsaFatima1/physical-ai-textbook/tree/main/docs/reference/glossary.md",
+  "editUrl": "https://github.com/M-Aamash/physical-ai-textbook/tree/main/docs/reference/glossary.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "textbookSidebar",
   "previous": {
     "title": "Chapter 15: Capstone Project - Autonomous Humanoid with VLA",
-    "permalink": "/physical-ai-textbook/ch15-capstone-project/"
+    "permalink": "/ch15-capstone-project/"
   },
   "next": {
     "title": "Hardware Specifications and Reference Tables",
-    "permalink": "/physical-ai-textbook/reference/hardware-specs"
+    "permalink": "/reference/hardware-specs"
   }
 }
